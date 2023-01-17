@@ -18,6 +18,8 @@ Anyway, I will always answer for any help concerning my tools or my gitbook.
 
 
 ## My values :crown:
+![angry](https://user-images.githubusercontent.com/40497633/212874448-b1452a4d-396d-45ca-9467-589227023df1.gif)
+
 
 ### Sharing :speech_balloon:
 
@@ -36,6 +38,9 @@ Please, consider reaching me if you have any question or suggestion about it. Th
 - Engineering
 - Tools
 - ...
+
+![marcus](https://user-images.githubusercontent.com/40497633/212873998-3d7636fb-5071-41d2-9b84-885b1d2d033f.gif)
+
 
 ### Continuous improvement :arrow_upper_right:
 
