@@ -1,16 +1,38 @@
-### Hi there 👋
+# Who am I ?
 
-<!--
-**mathis2001/mathis2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ! :wave: 
 
-Here are some ideas to get you started:
+My name is Mathis Pais De Sousa and I am actually a french student and a junior pentester making python tools for fun and <strike>profit</strike>.
+I like hacking, learning and hacking with my brand new knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My values :crown:
+
+### Sharing :speech_balloon:
+
+- Knowledge 
+- Tools
+- BBP / VDP
+- Other's work (credit)
+
+See my gitbook: https://s1rn3tz.gitbook.io/
+
+### Curiousity :satellite:
+
+- Attack and Defense strategies
+- Hacking News
+- Engineering
+- Tools
+- ...
+
+### Continuous improvement :arrow_upper_right:
+
+- Pentest (Web, Internal (Network, AD...), Mobile...) 
+- Bug bounty
+- CTF
+- OSINT
+
+## Visitor counter :1234:
+
+<img src="https://profile-counter.glitch.me/mathis2001/count.svg">
