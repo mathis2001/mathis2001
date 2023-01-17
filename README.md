@@ -12,7 +12,7 @@ or
 Twitter: https://twitter.com/NetzSir
 
 But if I don't answer it's that I'm too busy unlocking new achievement. :kissing_heart:
-Anyway, I will always answer any question concerning one of my tools or the gitbook.
+Anyway, I will always answer for any help concerning my tools or my gitbook.
 
 
 ## My values :crown:
@@ -25,6 +25,7 @@ Anyway, I will always answer any question concerning one of my tools or the gitb
 - Other's work (credit)
 
 See my gitbook: https://s1rn3tz.gitbook.io/
+Please, consider reaching me if you have any question or suggestion about it. Thanks!
 
 ### Curiousity :satellite:
 
