@@ -5,11 +5,11 @@ Hi ! :wave:
 My name is Mathis Pais De Sousa and I am actually a french student and a junior pentester making python tools for fun and <strike>profit</strike>.
 I like hacking, learning and hacking with my brand new knowledge.
 
-You can reach me on linkedin: 
+You can reach me on linkedin: https://fr.linkedin.com/in/mathis-pais-de-sousa-a63646182
 
 or
 
-Twitter:
+Twitter: https://twitter.com/NetzSir
 
 But if I don't answer it's that I'm too busy unlocking new achievement. :kissing_heart:
 
