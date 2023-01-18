@@ -5,6 +5,7 @@ Hi ! :wave:
 My name is Mathis Pais De Sousa and I am actually a french student and a junior pentester making python tools for fun and <strike>profit</strike>.
 I like to hack, learn and hack again with my brand new knowledge.
 
+
 ![angry](https://user-images.githubusercontent.com/40497633/212874448-b1452a4d-396d-45ca-9467-589227023df1.gif)
 ## Reach me on
 
@@ -48,6 +49,8 @@ Please, consider reaching me if you have any question or suggestion about it. Th
 - CTF
 - OSINT
 
-## Visitor counter :1234:
 
-<img src="https://profile-counter.glitch.me/mathis2001/count.svg">
+## Visitor count :1234:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/mathis2001/count.svg">
+</p>
