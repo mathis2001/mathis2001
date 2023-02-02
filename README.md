@@ -1,5 +1,7 @@
 # Who am I ?
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=mathis2001&show_icons=true&theme=dark" width="380">
+
 Hi ! :wave: 
 
 My name is Mathis Pais De Sousa and I am actually a french student and a junior pentester making python tools for fun and <strike>profit</strike>.
