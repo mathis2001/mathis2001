@@ -10,10 +10,11 @@ I like to hack, learn and hack again with my brand new knowledge.
 
 ![angry](https://user-images.githubusercontent.com/40497633/212874448-b1452a4d-396d-45ca-9467-589227023df1.gif)
 ## Reach me on
+<a href="https://twitter.com/NetzSir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NetzSir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mathis-pais-de-sousa-a63646182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-pais-de-sousa" height="30" width="40" /></a>
+<a href="https://discord.gg/S1rN3tZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S1rN3tZ" height="35" width="45" /></a>
 
-Linkedin: https://fr.linkedin.com/in/mathis-pais-de-sousa-a63646182
 
-Twitter: https://twitter.com/NetzSir
 
 But if I don't answer it's that I'm too busy unlocking new achievement. :kissing_heart:
 Anyway, I will always answer for any help concerning my tools or my gitbook.
