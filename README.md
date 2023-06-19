@@ -16,7 +16,7 @@ I like to hack, learn and hack again with my brand new knowledge.
 
 
 
-But if I don't answer it's that I'm too busy unlocking new achievement. :kissing_heart:
+But if I don't answer it's that I'm too busy unlocking new skills. :kissing_heart:
 Anyway, I will always answer for any help concerning my tools or my gitbook.
 
 
