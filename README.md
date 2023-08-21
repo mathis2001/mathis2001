@@ -31,7 +31,7 @@ Anyway, I will always answer for any help concerning my tools or my gitbook.
 - BBP / VDP
 - Other's work (credit)
 
-See my gitbook: https://s1rn3tz.gitbook.io/.
+See my gitbook: https://blog.s1rn3tz.ovh/.
 Please, consider reaching me if you have any question or suggestion about it. Thanks!
 
 ### Curiousity :satellite:
