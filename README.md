@@ -4,7 +4,7 @@
 
 Hi ! :wave: 
 
-My name is Mathis Pais De Sousa and I am actually a french student and a junior pentester making python tools for fun and <strike>profit</strike>.
+My name is Mathis Pais De Sousa, I'm a french junior pentester making python tools for fun and <strike>profit</strike>.
 I like to hack, learn and hack again with my brand new knowledge.
 
 
