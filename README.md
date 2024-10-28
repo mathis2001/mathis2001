@@ -53,7 +53,7 @@ Please, consider reaching me if you have any question or suggestion about it. Th
 - OSINT
 
 
-## Visitor count :1234:
+## Visitors count :1234:
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mathis2001/count.svg">
 </p>
