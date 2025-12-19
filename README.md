@@ -51,9 +51,3 @@ Please, consider reaching me if you have any question or suggestion about it. Th
 - Bug bounty
 - CTF
 - OSINT
-
-
-## Visitors count :1234:
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/mathis2001/count.svg">
-</p>
