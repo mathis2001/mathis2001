@@ -1,53 +1,116 @@
-# Who am I ?
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=S1rN3tZ&fontSize=50&fontColor=00ff99&animation=fadeIn" />
+</p>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=mathis2001&show_icons=true&theme=dark" width="380">
+<p align="center">
+  <b>Junior Pentester • Bug Bounty Hunter • Security Tool Builder</b><br>
+  <i>Web • API • Android • OSINT</i>
+</p>
 
-Hi ! :wave: 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff99"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff99"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
+</p>
 
-My name is Mathis Pais De Sousa, I'm a french junior pentester making python tools for fun and <strike>profit</strike>.
-I like to hack, learn and hack again with my brand new knowledge.
+<p align="center"> 
+  <a href="https://github.com/mathis2001"> 
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff99" />
+  </a>
+  <a href="https://twitter.com/NetzSir">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff99" />
+  </a>
+  <a href="https://blog.s1rn3tz.ovh/"> 
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=readthedocs&logoColor=00ff99" />
+  </a>
+  <a href="https://tools.s1rn3tz.ovh/"> 
+    <img src="https://img.shields.io/badge/WebTools-000000?style=for-the-badge&logo=htmx&logoColor=00ff99" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathis2001&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathis2001&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![angry](https://user-images.githubusercontent.com/40497633/212874448-b1452a4d-396d-45ca-9467-589227023df1.gif)
-## Reach me on
-<a href="https://twitter.com/NetzSir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NetzSir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mathis-pais-de-sousa-a63646182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-pais-de-sousa" height="30" width="40" /></a>
-<a href="https://discord.gg/S1rN3tZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S1rN3tZ" height="35" width="45" /></a>
+---
 
+## 👋 whoami
 
+```bash
+$ whoami
+Mathis (aka S1rN3tZ)
 
-But if I don't answer it's that I'm too busy unlocking new skills. :kissing_heart:
-Anyway, I will always answer for any help concerning my tools or my gitbook.
+$ location
+127.0.0.1
 
+$ cat mindset.txt
+Build • Break (ethically) • Learn • Share or Break (ethically) • Learn • Build • Share
+```
+## 🧠 Areas of Focus
 
-## My values :crown:
-![wrench](https://user-images.githubusercontent.com/40497633/212872388-47e46fa1-5694-4067-8c83-7fff01e027ba.gif)
+```bash
+$ head focus.txt
+- Web Application Security
+- OSINT & Recon Automation
+- Android Application Security
+- Bug Bounty Hunting
+- Vulnerability Research
+- Continuous Learning
+```
 
+## 🛠️ Tech Stack
 
-### Sharing :speech_balloon:
+```bash
+$ python3
+$ bash
 
-- Knowledge 
-- Tools
-- BBP / VDP
-- Other's work (credit)
+$ head dev_focus.txt
+- Automation
+- Reusable tooling
+- Open-source
+```
 
-See my gitbook: https://blog.s1rn3tz.ovh/.
-Please, consider reaching me if you have any question or suggestion about it. Thanks!
+## 🔐 Overview of my works
 
-### Curiousity :satellite:
+```bash
+$ tree -L 2
+.
+|_ Recon-Osint
+|  |_ WebHackUrls
+|  |_ Cert4Recon
+|  |_ Showldan
+|  |_ WapPassiveScan
+|  |_ TwittosINT
+|  |_ GitDiscloser
+|_ Mobile-Security
+|  |_ NSdeepLink
+|  |_ ActiFuzz
+|  |_ HiJackieChan
+|  |_ Android-nuclei-templates
+|  |_ Android-Semgrep-Rules
+|  |_ Androholic
+|  |_ TriplEx
+|  |_ QRecipe
+|_ Utilities
+|  |_ binaryCookieParser
+|  |_ Open2Pish
+|  |_ Burp-Bambda
+|  |_ HTTP2Whois
+|  |_ ParamFirstCheck
+|  |_ ParamChanger
+|  |_ Sp00fy
+|_ Resources
+|  |_ Wordlists
+|  |_ Files-upload
+|  |_ XSSerious
+|  |_ Dorking
+|_ Labs
+|  |_ Offensive_Labs
+|_ Other
+   |_ DeepConfusion
+   |_ Grepman
+```
 
-- Attack and Defense strategies
-- Hacking News
-- Engineering
-- Tools
-- ...
-
-![marcus](https://user-images.githubusercontent.com/40497633/212873998-3d7636fb-5071-41d2-9b84-885b1d2d033f.gif)
-
-
-### Continuous improvement :arrow_upper_right:
-
-- Pentest (Web, Internal (Network, AD...), Mobile...) 
-- Bug bounty
-- CTF
-- OSINT
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" /> </p>
