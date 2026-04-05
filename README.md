@@ -85,6 +85,7 @@ $ tree -L 2
 |  |_ TwittosINT
 |  |_ GitDiscloser
 |_ Mobile-Security
+|  |_ APAIA (Android Pentest AI Assistant)
 |  |_ Android-Malware-PoC
 |  |_ NSdeepLink
 |  |_ ActiFuzz
