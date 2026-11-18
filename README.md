@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Junior Pentester • Bug Bounty Hunter • Security Tool Builder</b><br>
+  <b>Pentester • Bug Bounty Hunter • Security Tool Builder</b><br>
   <i>Web • API • Android • OSINT</i>
 </p>
 
